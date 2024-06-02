@@ -52,7 +52,7 @@ size = Vector3(3, 0.4, 3)
 material = SubResource("StandardMaterial3D_70llm")
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 4.59, 10.87)
+transform = Transform3D(1, 0, 0, 0, 0.994151, 0.107999, 0, -0.107999, 0.994151, 0, 4.83, 10.28)
 
 [node name="Player" parent="." instance=ExtResource("1_sidn1")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -10, 1.4, 0)
